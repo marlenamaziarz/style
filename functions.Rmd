@@ -28,7 +28,7 @@ There are two options if the function name and definition can't fit on a single 
     }
     ```
 
-*   Double-indent: Place each argument of its own **double** indented line.
+*   Double-indent: Place each argument on its own **double** indented line.
 
     ```{r, eval = FALSE}
     long_function_name <- function(
